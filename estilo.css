@@ -9,7 +9,7 @@ body {
 }
 
 .logo {
-  width: 50%;
+  width: 80%;
   margin: 50px;
 }
 
@@ -107,6 +107,8 @@ body {
   background-color: black;
   width: 100%;
   margin-top: 0%;
+  justify-content: center;
+  align-items: center;
 }
 
 .subformato-1 {
@@ -205,7 +207,7 @@ body {
   margin-top: 20px;
   flex-wrap: wrap;
   flex-direction: column;
-  margin: 40px;
+  margin: 20px;
 }
 
 .subformato-12{
@@ -266,7 +268,8 @@ body {
 }
 
 .img-9{
-  width: 300px;margin: 30px;
+  width: 250px;
+  margin: 30px;
 }
 
 .img-10{
