@@ -2,9 +2,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(asset/walpaper\ webp.webp);
+  background-image: url(asset/walpaper\ 4.jpg);
   background-size: cover;
   background-repeat: repeat;
+  background-attachment: fixed;
   flex-direction: column;
 }
 
@@ -277,7 +278,7 @@ body {
 
 .img-10{
   width: 290px; 
-  margin:5px
+  margin:20px
 }
 
 .color {
