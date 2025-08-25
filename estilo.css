@@ -2,7 +2,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(asset/walpaper\ 4.jpg);
+  background-image: url(asset/walpaper\ webp.webp);
   background-size: cover;
   background-repeat: repeat;
   background-attachment: fixed;
@@ -105,7 +105,10 @@ body {
 }
 
 .formato-12 {
-  background-color: black;
+  background-image: url(asset/walpaper\ negro.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   width: 100%;
   margin-top: 0%;
   justify-content: center;
