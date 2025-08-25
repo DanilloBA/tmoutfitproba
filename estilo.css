@@ -2,7 +2,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(asset/walpaper\ \ 4.jpg);
+  background-image: url(asset/walpaper\ webp.webp);
   background-size: cover;
   background-repeat: repeat;
   flex-direction: column;
@@ -123,7 +123,7 @@ body {
   align-items: center;
   text-align: center;
   justify-content: center;
-  background-color: rgba(252, 253, 254, 0.528);
+  background-color: rgba(252, 253, 254, 0);
   flex-direction: column;
   border-radius: 0.5em;
   margin-top: 20px; /* https://grabient.com/HQThGYBpgdgFgGzXkgtABmARneyHgAmdLaHPAxO
@@ -224,6 +224,7 @@ body {
   margin-top: 20px;
   display: flex;
   margin: 10px;
+  color: aliceblue;
 }
 
 .p-2 {
@@ -293,3 +294,5 @@ body {
   width: 80%;
   padding: 20px;
 }
+
+.ropaMasculina{width: 300px;}
