@@ -115,6 +115,13 @@ body {
   align-items: center;
 }
 
+.formato-13 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .subformato-1 {
   display: flex;
   align-items: center;
@@ -216,12 +223,23 @@ body {
   margin: 20px;
 }
 
-.subformato-12{
+.subformato-12 {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;margin-top: 100px;
+  flex-wrap: wrap;
+  margin-top: 100px;
+}
+
+.subformato-13 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  text-align: center;
 }
 
 .P-1 {
@@ -274,14 +292,14 @@ body {
   height: 300px;
 }
 
-.img-9{
+.img-9 {
   width: 250px;
   margin: 30px;
 }
 
-.img-10{
-  width: 290px; 
-  margin:20px
+.img-10 {
+  width: 290px;
+  margin: 20px;
 }
 
 .color {
@@ -299,4 +317,6 @@ body {
   padding: 20px;
 }
 
-.ropaMasculina{width: 300px;}
+.ropaMasculina {
+  width: 300px;
+}
