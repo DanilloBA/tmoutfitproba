@@ -64,7 +64,7 @@ body {
 .formato-6 {
   display: flex;
   margin-top: 20px;
-  margin: 10px;
+  margin: 5px;
   justify-content: center;
   align-items: center;
 }
@@ -120,7 +120,17 @@ body {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  flex-direction: column;
 }
+
+
+.formato-14{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+
+
 
 .subformato-1 {
   display: flex;
@@ -242,6 +252,12 @@ body {
   text-align: center;
 }
 
+.subformato-14 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .P-1 {
   margin-top: 20px;
   display: flex;
@@ -300,6 +316,15 @@ body {
 .img-10 {
   width: 290px;
   margin: 20px;
+}
+
+.img-11 {
+  width: 290px;
+  margin: 20px;
+}
+
+.img-12 {
+  width: 290px;
 }
 
 .color {
