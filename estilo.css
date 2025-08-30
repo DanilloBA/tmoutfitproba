@@ -123,21 +123,20 @@ body {
   flex-direction: column;
 }
 
-
-.formato-14{
+.formato-14 {
   display: flex;
-  align-items:center;
+  align-items: center;
   justify-content: center;
 }
 
-.formato-15{
+.formato-15 {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 140px;
 }
 
-.formato-16{
+.formato-16 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -147,6 +146,29 @@ body {
   width: 100%;
 }
 
+.formato-17{
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 20px;
+  flex-wrap: wrap;
+}
+
+
+
+.formato-18{
+  background-image: url(asset/walpaper\ negro.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 20px;
+  flex-wrap: wrap;
+}
 
 .subformato-1 {
   display: flex;
@@ -283,15 +305,20 @@ body {
   flex-direction: column;
 }
 
-
-.subformato-16{
+.subformato-16 {
   display: flex;
   margin: 10px;
 }
 
-
-.subformato-17{background-color: chartreuse;
+.subformato-17 {
+  background-color: chartreuse;
+  margin-top: 30px;
 }
+
+.subformato-18{
+  
+}
+
 
 .P-1 {
   margin-top: 20px;
@@ -304,6 +331,10 @@ body {
   margin-top: 50px;
   background-color: black;
   border-radius: 0.3em;
+  color: aliceblue;
+}
+
+.p-3{
   color: aliceblue;
 }
 
@@ -362,13 +393,13 @@ body {
   width: 290px;
 }
 
-
-.img-13{
+.img-13 {
   width: 290px;
 }
 
-.img-14{
+.img-14 {
   width: 280px;
+  margin: 20px;
 }
 
 .color {
@@ -389,3 +420,5 @@ body {
 .ropaMasculina {
   width: 300px;
 }
+
+
