@@ -453,3 +453,7 @@ body {
 }
 
 
+.orden-whatsapp{ width:40px;height: 40px;
+background-image: url(asset/Whatsapp_logo_svg.png);}
+
+.disposicion{display: flex;justify-content: center;align-items: center;flex-direction: column;}
