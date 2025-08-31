@@ -336,12 +336,14 @@ body {
   justify-content: center;
   flex-direction: column;
   margin-top: 50px;
-  
+  text-align: center;
+
 }
 
 .subformato-20{
   margin-top: 100px;
   display: flex;
+  justify-content: center;
 }
 
 
