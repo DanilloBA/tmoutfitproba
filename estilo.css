@@ -4,7 +4,7 @@ body {
   justify-content: center;
   background-image: url(asset/walpaper\ webp.webp);
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: fixed;
   flex-direction: column;
 }
