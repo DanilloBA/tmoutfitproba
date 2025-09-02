@@ -1,3 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+
+font-family: 'Lato', sans-serif;}
+
+
+
+
+
 body {
   display: flex;
   align-items: center;
@@ -6,6 +18,8 @@ body {
   background-size: cover;
   background-repeat: repeat;
   background-attachment: fixed;
+  background-clip: padding-box;
+
   flex-direction: column;
 }
 
