@@ -16,10 +16,10 @@ body {
   justify-content: center;
   background-image: url(asset/walpaper\ webp.webp);
   background-size: cover;
-  background-repeat: repeat;
+  background-repeat: repeat-x;
   background-attachment: fixed;
   background-clip: padding-box;
-  background-size: contain;
+  
 
   flex-direction: column;
 }
