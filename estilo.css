@@ -19,6 +19,7 @@ body {
   background-repeat: repeat;
   background-attachment: fixed;
   background-clip: padding-box;
+  background-size: contain;
 
   flex-direction: column;
 }
