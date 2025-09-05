@@ -16,9 +16,8 @@ body {
   justify-content: center;
   background-image: url(asset/walpaper\ webp.webp);
   background-size: cover;
- background-repeat: space;
+ background-repeat: no-repeat;
   background-attachment: fixed;
-  background-clip: padding-box;
   flex-direction: column;
 }
 
